@@ -23,8 +23,8 @@ const Home: NextPage = () => {
 
         <div className={styles.avatar}>
           <Image
-            src="https://media-exp1.licdn.com/dms/image/C5103AQHHaACLQZImXQ/profile-displayphoto-shrink_400_400/0/1516559447278?e=1671062400&v=beta&t=tH2xjxEA6NUVmNc7ULbPcHX9wiO_Wi9mKZbC_tPoo9U"
-            alt="iman heidari"
+            src="https://avatars.githubusercontent.com/u/28886954?v=4"
+            alt="sam hashemi"
             width={100}
             height={100}
           />
